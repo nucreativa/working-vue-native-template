@@ -1,9 +1,10 @@
 {
   "expo": {
-    "name": "cvue",
-    "slug": "cvue",
+    "name": "firstApp",
+    "description": "This project is really great.",
+    "slug": "firstApp",
     "privacy": "public",
-    "sdkVersion": "32.0.0",
+    "sdkVersion": "29.0.0",
     "platforms": [
       "ios",
       "android"

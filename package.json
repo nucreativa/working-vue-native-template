@@ -1,5 +1,7 @@
 {
+  "name": "working-vue-native-template",
   "main": "node_modules/expo/AppEntry.js",
+  "private": true,
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -7,15 +9,14 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^32.0.0",
+    "expo": "^29.0.0",
     "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native": "0.55.4",
     "vue-native-core": "0.0.8",
     "vue-native-helper": "0.0.9"
   },
   "devDependencies": {
-    "babel-preset-expo": "^5.0.0",
+    "babel-preset-expo": "^4.0.0",
     "vue-native-scripts": "0.0.14"
-  },
-  "private": true
+  }
 }
